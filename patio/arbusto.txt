@@ -1,0 +1,3 @@
+Esto es un arbusto tipo ficus con 5 ramas principales y dos hojas 
+^exit
+
